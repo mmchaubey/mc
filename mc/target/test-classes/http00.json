@@ -1,0 +1,2 @@
+{"request": {"method": "GET", "url": "/connected?origin=Boston&destination=Newark", "headers": {}, "body": {}}, "response": {"status_code": 200, "headers": {}, "body": "no"}}
+{"request": {"method": "GET", "url": "/connected?origin=Newark&destination=Boston", "headers": {}, "body": {}}, "response": {"status_code": 200, "headers": {}, "body":"yes"}}
